@@ -8,4 +8,4 @@ As #Button 1: is a button to identify objects, whether they are human, inanimate
 #Botton 3: is about recognizing the people whose photos have been attached in the data folder of the photos
 
 
-###The pyttsx3 library was used to convert text into audio because it does not need a net when running, and thus reduces the load on the user's Raspberry Pi device.
+<h3>The pyttsx3 library was used to convert text into audio because it does not need a net when running, and thus reduces the load on the user's Raspberry Pi device.</h3>
